@@ -35,5 +35,9 @@ Please list any functionality issues you found:
 - Issue 2
 - ...
 
-# Additional feedback
-Below you can list 
+# Feedback / experience
+Below you can tell us your feedback or describe your experience of working with CHORAS today! Please start every bullet with **I like..** or **I wish/wonder..**
+- I like ..
+- I wish ..
+- I wonder ..
+- ..
