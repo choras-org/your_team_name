@@ -23,6 +23,42 @@ This is where you can describe how you tackled the task
 - Finally we..
 - etc.
 
+## Input settings
+Here you can list the input settings you gave to complete your simulations
+
+Source position:
+- x:
+- y:
+- z:
+
+Receiver position
+- x:
+- y:
+- z:
+
+If you created materials:
+- <material name>: 63 Hz, 125 Hz, 250 Hz, 500 Hz, 1000 Hz, 2000 Hz, 4000 Hz 
+_Example:_
+_- My new material, 0.1, 0.2, 0.3, 0.4, 0.5, 0.1, 0.1_
+
+Material properties:
+- Surface [1]: <material name>
+- Surface [6]: <material name>
+- Rest of the surfaces: <material name>
+
+Settings:
+
+You can paste the JSON here by clicking on the Open as JSON button
+
+- DE
+```json
+DE settings as JSON
+```
+- DG
+```json
+DG settings as JSON
+```
+
 ## 3 proposals for improving CHORAS
 Here you can list your 3 proposals for improving CHORAS. Out of the box ideas are welcome! 
 - Proposal 1:
